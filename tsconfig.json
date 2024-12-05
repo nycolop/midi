@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "Node16" /* Cambié esto a 'Node16' */,
+    "moduleResolution": "node16",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "outDir": "./dist",
+    "resolvePackageJsonExports": true,
+    "strict": true,
+    "baseUrl": "./src"
+  }
+}

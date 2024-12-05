@@ -1,0 +1,23 @@
+{
+  "name": "midi",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev": "ts-node src/main.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/midi": "^2.0.3",
+    "midi": "^2.0.0",
+    "puppeteer": "^23.10.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
